@@ -1,0 +1,8 @@
+[package]
+name = "commonmark"
+description = "CommonMark parsing and rendering library and program in Rust"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+
+[dependencies]
